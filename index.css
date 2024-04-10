@@ -1,0 +1,29 @@
+.desktop-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 752px;
+  height: 1024px;
+  object-fit: cover;
+}
+.the-resilience-of {
+  position: absolute;
+  top: 176px;
+  left: 781px;
+  display: inline-block;
+  width: 616px;
+  height: 723px;
+  text-shadow: 1px 0 0#ca7237, 0 1px 0#ca7237, -1px 0 0#ca7237, 0-1px 0#ca7237;
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: #fab999;
+  height: 1024px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: #ca7237;
+  font-family: var(--font-inter);
+}

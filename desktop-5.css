@@ -1,0 +1,39 @@
+.desktop-5-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 810px;
+  object-fit: cover;
+}
+.conversation-of-plastic-waste {
+  margin: 0;
+  font-size: var(--font-size-29xl);
+}
+.absolutely-plastic-separation {
+  margin: 0;
+}
+.conversation-of-plastic-container1 {
+  width: 100%;
+}
+.conversation-of-plastic-container {
+  position: absolute;
+  top: 777px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 1440px;
+  height: 247px;
+}
+.desktop-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray);
+  height: 1024px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

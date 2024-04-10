@@ -1,0 +1,35 @@
+.desktop-3-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 810px;
+  object-fit: cover;
+}
+.collection-app-from-industry {
+  margin: 0;
+  font-size: var(--font-size-29xl);
+}
+.blank-line {
+  margin: 0;
+}
+.collection-app-from-container {
+  position: absolute;
+  top: 816px;
+  left: 0;
+  display: inline-block;
+  width: 1440px;
+  height: 208px;
+}
+.desktop-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray);
+  height: 1024px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
